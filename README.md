@@ -1,7 +1,8 @@
 # sequential_hierarchical-explanation
+Layer-wise Analysis of Bert Model for Sentiment Analysis
 
-# sequential_hierarchical-explanation
- Layer-wise Analysis of Bert Model for Sentiment Analysis
+This repo is implementation of SOC and SCD algorithm, scripts for visualization and evaluation. Paper: Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models, ICLR 2020. Forked from https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models
+ 
  
 Download the trained models as follow:
 
@@ -14,7 +15,6 @@ Download models Folder and put it in ./
 ```shell script
 wget web.cse.ohio-state.edu/~samavatian.1/VaiS/models.zip 
 ```
-The output of the explains.py script will be uploaded soon in outputs directory. soc_result is ready now. 
 
 # for BERT
 
